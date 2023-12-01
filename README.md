@@ -1,7 +1,7 @@
 -Use Java 
 
 
-+Framewrok Spring 
++Framework Spring-mvc
 
 
 +HTML/CSS basic
@@ -11,4 +11,4 @@
 
 
 
--Java Spring MVC with Student
++Java Spring MVC with Student
